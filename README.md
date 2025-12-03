@@ -20,6 +20,9 @@
 ## 📋 Sobre o Projeto
 O **Palhoça Cidadã** resolve a dificuldade dos moradores em reportar problemas urbanos (buracos, iluminação, lixo). A plataforma centraliza queixas, gera visibilidade através de um feed público e permite a gestão eficiente por parte da administração municipal.
 
+## Diagrama de Classe 
+<img src="palhocaCidada - FMP\java\Diagrama de Classes.png" width="1000" height="700">
+
 ## ✨ Funcionalidades Principais
 
 <table>
